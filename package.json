@@ -1,0 +1,28 @@
+{
+  "name": "cra-by-goblin",
+  "version": "1.0.0",
+  "description": "cra made by super awesome sir goblin sanger!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/grawish/cra-by-goblin.git"
+  },
+  "keywords": [
+    "cra",
+    "goblin",
+    "template",
+    "react"
+  ],
+  "author": "goblin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grawish/cra-by-goblin/issues"
+  },
+  "homepage": "https://github.com/grawish/cra-by-goblin#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
