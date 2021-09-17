@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/grawish/cra-by-goblin#readme",
   "dependencies": {
+    "pnpm": "^6.15.1",
     "readline-sync": "^1.4.10"
   }
 }
