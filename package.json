@@ -1,10 +1,13 @@
 {
   "name": "cra-by-goblin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cra made by super awesome sir goblin sanger!",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
+  },
+  "bin": {
+    "cra-by-goblin": "./index.js"
   },
   "repository": {
     "type": "git",
